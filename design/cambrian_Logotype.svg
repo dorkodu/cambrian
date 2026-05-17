@@ -4,7 +4,7 @@
 <svg
    width="805.43884"
    height="194.45436"
-   viewBox="0 0 213.10568 51.449382"
+   viewBox="0 0 213.10568 51.449383"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -12,16 +12,22 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs2"><linearGradient
-       id="linearGradient465"><stop
-         style="stop-color:#00ccff;stop-opacity:1;"
+       id="linearGradient258"><stop
+         style="stop-color:#3377ff;stop-opacity:1;"
          offset="0"
-         id="stop465" /><stop
-         style="stop-color:#00e599;stop-opacity:1;"
-         offset="0.5"
-         id="stop467" /><stop
-         style="stop-color:#3355ff;stop-opacity:1;"
+         id="stop256" /><stop
+         style="stop-color:#00e5c5;stop-opacity:1;"
+         offset="0.25348061"
+         id="stop260" /><stop
+         style="stop-color:#00e573;stop-opacity:1;"
+         offset="0.52393866"
+         id="stop257" /><stop
+         style="stop-color:#5999d9;stop-opacity:1;"
+         offset="0.75315106"
+         id="stop259" /><stop
+         style="stop-color:#3f1aff;stop-opacity:1;"
          offset="1"
-         id="stop466" /></linearGradient><linearGradient
+         id="stop258" /></linearGradient><linearGradient
        id="linearGradient447"><stop
          style="stop-color:#00ccff;stop-opacity:1;"
          offset="0"
@@ -60,7 +66,7 @@
        x2="1923.9615"
        y2="994.57251"
        gradientUnits="userSpaceOnUse" /><linearGradient
-       xlink:href="#linearGradient465"
+       xlink:href="#linearGradient258"
        id="linearGradient466"
        x1="1725.7727"
        y1="982.17017"
@@ -76,7 +82,7 @@
        x2="1923.9615"
        y2="994.57251" /></defs><g
      id="layer1"
-     transform="translate(-1289.8153,-1308.0607)"><g
+     transform="translate(-1289.8153,-1308.0608)"><g
        id="text440"
        style="font-weight:800;font-size:39.5435px;font-family:'Geist Mono';-inkscape-font-specification:'Geist Mono Ultra-Bold';letter-spacing:0px;stroke:url(#linearGradient448);stroke-width:0.337019"
        aria-label="CAMBRIAN"
